@@ -2,7 +2,7 @@
 
 ## 참고
 
-https://www.youtube.com/watch?v=uinfkuD76Fw&ab_channel=notJust%E2%80%A4dev
+https://www.youtube.com/live/uinfkuD76Fw?feature=shared&t=5890
 https://www.youtube.com/watch?v=TA7vQYbr7kQ&ab_channel=notJust%E2%80%A4dev
 
 ## 프로젝트 생성

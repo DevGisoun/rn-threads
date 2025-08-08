@@ -13,6 +13,7 @@ export default function TabsLayout() {
                 name="index"
                 options={{
                     title: 'Feed',
+                    headerShown: false,
                     tabBarIcon: ({ color }) => <HomeIcon color={color} />,
                 }}
             />
@@ -20,6 +21,7 @@ export default function TabsLayout() {
                 name="search"
                 options={{
                     title: '검색',
+                    headerShown: false,
                     tabBarIcon: ({ color }) => <SearchIcon color={color} />,
                 }}
             />
@@ -27,6 +29,7 @@ export default function TabsLayout() {
                 name="notification"
                 options={{
                     title: '알림',
+                    headerShown: false,
                     tabBarIcon: ({ color }) => <BellDotIcon color={color} />,
                 }}
             />
@@ -34,6 +37,7 @@ export default function TabsLayout() {
                 name="profile"
                 options={{
                     title: '프로필',
+                    headerShown: false,
                     tabBarIcon: ({ color }) => <UserIcon color={color} />,
                 }}
             />
